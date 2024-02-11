@@ -1,0 +1,4 @@
+chromedriver.exe
+msedgedriver.exe
+venv
+*.xlsx
